@@ -3,7 +3,7 @@
 </p>
 
 
-## 📨 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/mr_d_p) 
+## 📨 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Zxyune) 
 <br>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Cangcimenn&color=blue&style=flat-square&label=Profile+Views)
